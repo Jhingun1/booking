@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@servicebell/widget": "^0.1.1"
+  }
+}
